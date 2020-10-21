@@ -1,0 +1,32 @@
+{
+"components": [
+{
+    "username" : "jason123",
+    "name" : "jason",
+    "password" : "jasonnn",
+    "email" : "jason123@gmail.com",
+    "cellphone" : "647-111-1111"
+},
+{
+    "username" : "jill123",
+    "name" : "jill",
+    "password" : "jillll",
+    "email" : "jill123@gmail.com",
+    "cellphone" : "905-111-1111"
+},
+{
+    "username" : "sandra123",
+    "name" : "sandra",
+    "password" : "sandraaa",
+    "email" : "sandra123@gmail.com",
+    "cellphone" : "647-222-2222"
+},
+{
+    "username" : "sandra123",
+    "name" : "sandra",
+    "password" : "sandraaa",
+    "email" : "sandra123@gmail.com",
+    "cellphone" : "647-333-2222"
+}
+]
+}

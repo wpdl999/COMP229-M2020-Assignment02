@@ -1,0 +1,57 @@
+/* custom css goes here */
+
+/* custom css goes here */
+#name {
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+body 
+{
+		background-color: grey;
+}
+
+#p1 {
+	text-align: center;
+}
+
+.intro
+{
+	text-align: center;
+}
+
+#myintro
+{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+#projects
+{
+	margin-left: 350px;
+}
+
+#HeaderS
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#ex
+{
+	text-align: center;
+	color: greenyellow;
+}
+
+
+#pp{
+	color: white;
+}
+
+h2{
+	margin-left: 400px;
+}
+
